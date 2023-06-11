@@ -8,12 +8,7 @@
   <description>Implementações dos exemplos do artigo "Tem um tempinho para conversarmos sobre boas práticas de programação com Java?"</description>
   
   <properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<java.version>1.8</java.version>
-		<log4j2.version>2.20.0</log4j2.version>
-  </properties>
-  
+		
   <dependencies>
   		<dependency>
 		    <groupId>org.apache.logging.log4j</groupId>
